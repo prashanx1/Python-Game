@@ -68,4 +68,4 @@ while True:
         break
 
 # After coming out of the while loop, print thanks for playing
-print("Thanks for playing!")
+print("Thanks for playing!")
